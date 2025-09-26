@@ -1,0 +1,48 @@
+{
+  "races": [
+    {
+      "name": "Awoken",
+      "subRaces": ["Reefborn", "Earthborn"]
+    },
+    {
+      "name": "Exo",
+      "subRaces": ["Model AB-U", "Model CT-HD", "Model JSYK"]
+    },
+    {
+      "name": "Human",
+      "subRaces": ["Citizen", "Pilgrim", "Wayfarer"]
+    },
+    {
+      "name": "Cabal",
+      "subRaces": ["Calus", "Gaul"]
+    },
+    {
+      "name": "Eliksni",
+      "subRaces": ["Vandal", "Captain", "Baron", "Exo"]
+    },
+    {
+      "name": "Krill",
+      "subRaces": ["Acolyte", "Knight", "Mother"]
+    },
+    {
+      "name": "Psion",
+      "subRaces": ["Soldier", "Mind Flayer"]
+    },
+    {
+      "name": "Vex",
+      "subRaces": ["Goblin", "Hobgoblin", "Minotaur"]
+    },
+    {
+      "name": "Lubraean",
+      "subRaces": ["The Regime", "The Wanderer"]
+    },
+    {
+      "name": "Neomunan",
+      "subRaces": ["Cloud Strider", "Cloud Echo"]
+    },
+    {
+      "name": "Dread",
+      "subRaces": ["Tormentor", "Subjugator"]
+    }
+  ]
+}
