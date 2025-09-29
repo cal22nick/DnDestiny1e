@@ -1,0 +1,14 @@
+{
+"kinetic":{},
+"explosive":{},
+"light":{"subtypes":{"arc","solar","void",}}
+"dark":{"subtypes":{"stasis","strand","taken",}}
+"prismatic":{},
+"piercing":{},
+"bludgeoning":{},
+"slashing":{},
+"poison":{},
+"acid":{},
+"necrotic":{},
+"force":{},
+"psychic":{},
