@@ -1,171 +1,38 @@
 {
-  "Awoken:Reefborn": [
-    [
-      {"choose": 1, "amount": 2},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Awoken:Earthborn": [
-    [
-      {"choose": 1, "amount": 2},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Exo:Model AB-U": [
-    [
-      {"choose": 1, "amount": 2}
-    ]
-  ],
-  "Exo:Model CT-HD": [
-    [
-      {"choose": 1, "amount": 2},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Exo:Model JSYK": [
-    [
-      {"choose": 3, "amount": 1}
-    ],
-    [
-      {"choose": 1, "amount": 2},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Human:Citizen": [
-    [
-      {"choose": 1, "amount": 2},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Human:Pilgrim": [
-    [
-      {"choose": 1, "amount": 2},
-      {"choose": 1, "amount": 2}
-    ]
-  ],
-  "Human:Wayfarer": [
-    [
-      {"choose": 1, "amount": 2},
-      {"choose": 1, "amount": 3}
-    ]
-  ],
-  "Cabal:Calus": [
-    [
-      {"choose": 1, "amount": 2},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Cabal:Gaul": [
-    [
-      {"choose": 1, "amount": 2},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Eliksni:Vandal": [
-    [
-      {"choose": 1, "amount": 2},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Eliksni:Captain": [
-    [
-      {"choose": 1, "amount": 2},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Eliksni:Baron": [
-    [
-      {"choose": 1, "amount": 2},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Eliksni:Exo": [
-    [
-      {"choose": 1, "amount": 2},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Krill:Acolyte": [
-    [
-      {"choose": 1, "amount": 1, "note": "Lose if morph changes. If made permanent, use the option below."}
-    ],
-    [
-      {"choose": 1, "amount": 2, "note": "Only if you make Acolyte morph permanent."}
-    ]
-  ],
-  "Krill:Knight": [
-    [
-      {"choose": 1, "amount": 2, "abilities": ["Strength", "Constitution", "Charisma"]},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Krill:Mother": [
-    [
-      {"choose": 1, "amount": 2, "abilities": ["Dexterity", "Wisdom", "Intelligence"]},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Psion:Soldier": [
-    [
-      {"ability": "Intelligence", "amount": 2},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Psion:Mind Flayer": [
-    [
-      {"ability": "Intelligence", "amount": 2},
-      {"choose": 1, "amount": 2}
-    ]
-  ],
-  "Vex:Goblin": [
-    [
-      {"choose": 1, "amount": 2}
-    ]
-  ],
-  "Vex:Hobgoblin": [
-    [
-      {"choose": 1, "amount": 3}
-    ]
-  ],
-  "Vex:Minotaur": [
-    [
-      {"choose": 1, "amount": 4}
-    ]
-  ],
-  "Lubraean:The Regime": [
-    [
-      {"choose": 1, "amount": 2, "abilities": ["Wisdom", "Charisma", "Intelligence"]},
-      {"choose": 1, "amount": 2, "abilities": ["Constitution", "Dexterity", "Strength"]}
-    ]
-  ],
-  "Lubraean:The Wanderer": [
-    [
-      {"choose": 1, "amount": 2, "abilities": ["Wisdom", "Charisma", "Intelligence"]},
-      {"choose": 1, "amount": 2, "abilities": ["Constitution", "Dexterity", "Strength"]}
-    ]
-  ],
-  "Neomunan:Cloud Strider": [
-    [
-      {"ability": "Constitution", "amount": 2},
-      {"choose": 1, "amount": 1}
-    ]
-  ],
-  "Neomunan:Cloud Echo": [
-    [
-      {"ability": "Intelligence", "amount": 2},
-      {"choose": 1, "amount": 1, "abilities": ["Dexterity", "Wisdom"]}
-    ]
-  ],
-  "Dread:Tormentor": [
-    [
-      {"ability": "Strength", "amount": 2},
-      {"choose": 1, "amount": 2}
-    ]
-  ],
-  "Dread:Subjugator": [
-    [
-      {"ability": "Wisdom", "amount": 2},
-      {"choose": 1, "amount": 2}
-    ]
-  ]
+  "Awoken:Reefborn": [[{"choose": 1, "amount": 2},{"choose": 1, "amount": 1}]],
+  "Awoken:Earthborn": [[{"choose": 1, "amount": 2},{"choose": 1, "amount": 1}]],
+
+  "Exo:Model AB-U": [[{"choose": 1, "amount": 2}]],
+  "Exo:Model CT-HD": [[{"choose": 1, "amount": 2},{"choose": 1, "amount": 1}]],
+  "Exo:Model JSYK": [[{"choose": 3, "amount": 1}],[{"choose": 1, "amount": 2},{"choose": 1, "amount": 1}]],
+
+  "Human:Citizen": [[{"choose": 1, "amount": 2},{"choose": 1, "amount": 1}]],
+  "Human:Pilgrim": [[{"choose": 1, "amount": 2},{"choose": 1, "amount": 2}]],
+  "Human:Wayfarer": [[{"choose": 1, "amount": 2},{"choose": 1, "amount": 3}]],
+
+  "Cabal:Calus": [[{"choose": 1, "amount": 2},{"choose": 1, "amount": 1}]],
+  "Cabal:Gaul": [[{"choose": 1, "amount": 2},{"choose": 1, "amount": 1}]],
+
+  "Eliksni:Vandal": [[{"choose": 1, "amount": 2},{"choose": 1, "amount": 1}]],
+  "Eliksni:Captain": [[{"choose": 1, "amount": 2},{"choose": 1, "amount": 1}]],
+  "Eliksni:Baron": [[{"choose": 1, "amount": 2},{"choose": 1, "amount": 1}]],
+  "Eliksni:Exo": [[{"choose": 1, "amount": 2},{"choose": 1, "amount": 1}]],
+
+  "Krill:Acolyte": [[{"choose": 1, "amount": 1, "note": "Lose if morph changes. If made permanent, use the option below."}],[{"choose": 1, "amount": 2, "note": "Only if you make Acolyte morph permanent."}]],
+  "Krill:Knight": [[{"choose": 1, "amount": 2, "abilities": ["Strength", "Constitution", "Charisma"]},{"choose": 1, "amount": 1}]],
+  "Krill:Mother": [[{"choose": 1, "amount": 2, "abilities": ["Dexterity", "Wisdom", "Intelligence"]},{"choose": 1, "amount": 1}]],
+  "Psion:Soldier": [[{"ability": "Intelligence", "amount": 2},{"choose": 1, "amount": 1}]],
+  "Psion:Mind Flayer": [[{"ability": "Intelligence", "amount": 2},{"choose": 1, "amount": 2}]],
+  "Vex:Goblin": [[{"choose": 1, "amount": 2}]],
+  "Vex:Hobgoblin": [[{"choose": 1, "amount": 3}]],
+  "Vex:Minotaur": [[{"choose": 1, "amount": 4}]],
+ 
+  "Lubraean:The Regime": [[{"choose": 1, "amount": 2, "abilities": ["Wisdom", "Charisma", "Intelligence"]},{"choose": 1, "amount": 2, "abilities": ["Constitution", "Dexterity", "Strength"]}]],
+  "Lubraean:The Wanderer": [[{"choose": 1, "amount": 2, "abilities": ["Wisdom", "Charisma", "Intelligence"]},{"choose": 1, "amount": 2, "abilities": ["Constitution", "Dexterity", "Strength"]}]],
+  
+  "Neomunan:Cloud Strider": [[{"ability": "Constitution", "amount": 2},{"choose": 1, "amount": 1}]],
+  "Neomunan:Cloud Echo": [[{"ability": "Intelligence", "amount": 2},{"choose": 1, "amount": 1, "abilities": ["Dexterity", "Wisdom"]}]],
+ 
+  "Dread:Tormentor": [[{"ability": "Strength", "amount": 2},{"choose": 1, "amount": 2}]],
+  "Dread:Subjugator": [[{"ability": "Wisdom", "amount": 2},{"choose": 1, "amount": 2}]]
 }
