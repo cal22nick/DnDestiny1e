@@ -1,0 +1,9 @@
+{
+  "classes": 
+  [
+    {"name": "Hunter","subClass":["Gunslinger", "Bladedancer","Nightstalker","Arcstrider","Revenant","Threadrunner,"Reaper","Prismatic Hunter"]},
+    {"name":"Titan","subClass":["Striker","Defender","Sunbreaker","Sentinel","Behemoth","Berseker","Warden","Prismatic Titan"]},
+    {"name:"Warlock","subClass":["Voidwalker","Sunsinger","Stormcaller","Dawnblade","Shadebinder","Broodweaver","Soulchanter","Prismatic Warlock"]},
+  ]
+}
+ 
