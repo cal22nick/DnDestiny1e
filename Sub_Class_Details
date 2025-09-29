@@ -1,0 +1,112 @@
+{
+  "Hunter":{
+    "Bladedancer": {
+      "Stat": "Intelligence (INT)",
+      "Affinity": "Arc",
+      "ShieldDie": "d8",
+      "Grenades": ["Arcbolt", "Flux", "Skip"],
+      "ClassAbilities": ["Marksman Dodge", "Gamblers Dodge"],
+      "Aspects": ["Way of the Swiftcutter", "Way of the Arcstrider", "Way of the Whisper"]
+    },
+    "Gunslinger": {
+      "Stat": "Charisma (CHA)",
+      "Affinity": "Solar",
+      "ShieldDie": "d8",
+      "Grenades": ["Incendiary", "Swarm", "Tripmine"],
+      "ClassAbilities": ["Marksman Dodge", "Gamblers Dodge"],
+      "Aspects": ["The Sharpshooter", "The Outlaw", "The Showman"]
+    },
+    "Nightstalker": {
+      "Stat": "Wisdom (WIS)",
+      "Affinity": "Void",
+      "ShieldDie": "d8",
+      "Grenades": ["Spike", "Voidwall", "Vortex"],
+      "ClassAbilities": ["Marksman Dodge", "Gamblers Dodge"],
+      "Aspects": ["Trapper", "Pathfinder", "Wraith"]
+    },
+    "Revenant": {
+      "Stat": "Wisdom (WIS)",
+      "Affinity": "Stasis",
+      "ShieldDie": "d8",
+      "Grenades": ["Duskfield", "Icewall", "Coldsnap"],
+      "ClassAbilities": ["Marksman Dodge", "Gamblers Dodge"],
+      "Aspects": ["Shatterdrive", "Winter’s Shroud", "Grim Harvest"]
+    },
+    "Reaper": {
+      "Stat": "Charisma (CHA)",
+      "Affinity": "Taken",
+      "ShieldDie": "d8",
+      "Grenades": ["Soulfire", "Darkmaw", "Splitgate"],
+      "ClassAbilities": ["Marksman Dodge", "Gamblers Dodge"],
+      "Aspects": ["The Gravetender", "The Specter", "The Shadowheart"]
+    }
+  },
+  "Titan": {
+    "Defender": {
+      "Stat": "Charisma (CHA)",
+      "Affinity": "Void",
+      "ShieldDie": "d12",
+      "Grenades": ["Magnetic", "Spike", "Suppressor"],
+      "ClassAbilities": ["Towering Barricade", "Rally Barricade"],
+      "Aspects": ["Calling of the Light", "Calling of the Shield", "Calling of the Sentinel"]
+    },
+    "Striker": {
+      "Stat": "Constitution (CON)",
+      "Affinity": "Arc",
+      "ShieldDie": "d8",
+      "Grenades": ["Flashbang", "Lightning", "Pulse"],
+      "ClassAbilities": ["Towering Barricade", "Rally Barricade"],
+      "Aspects": ["Juggernaut", "Engineer", "Gladiator"]
+    },
+    "Sunbreaker": {
+      "Stat": "Wisdom (WIS)",
+      "Affinity": "Solar",
+      "ShieldDie": "d10",
+      "Grenades": ["Fusion", "Incendiary", "Thermite"],
+      "ClassAbilities": ["Towering Barricade", "Rally Barricade"],
+      "Aspects": ["Code of the Devastator", "Code of the Fireforged", "Code of the Siegebreaker"]
+    },
+    "Behemoth": {
+      "Stat": "Constitution (CON)",
+      "Affinity": "Stasis",
+      "ShieldDie": "d10",
+      "Grenades": ["Duskfield", "Icewall", "Coldsnap"],
+      "ClassAbilities": ["Towering Barricade", "Rally Barricade"],
+      "Aspects": ["Howl of the Storm", "Tectonic Harvest", "Cryoclasm"]
+    }
+  },
+  "Warlock": {
+    "Stormcaller": {
+      "Stat": "Wisdom (WIS)",
+      "Affinity": "Arc",
+      "ShieldDie": "d8",
+      "Grenades": ["Arcbolt", "Pulse", "Storm"],
+      "ClassAbilities": ["Healing Rift", "Empowering Rift"],
+      "Aspects": ["Master of Lightning", "Master of Wind", "Master of Thunder"]
+    },
+    "Sunsinger": {
+      "Stat": "Charisma (CHA)",
+      "Affinity": "Solar",
+      "ShieldDie": "d8",
+      "Grenades": ["Firebolt", "Fusion", "Solar"],
+      "ClassAbilities": ["Healing Rift", "Empowering Rift"],
+      "Aspects": ["Ballad of Flame", "Ballad of Grace", "Ballad of Dawn"]
+    },
+    "Voidwalker": {
+      "Stat": "Intelligence (INT)",
+      "Affinity": "Void",
+      "ShieldDie": "d6",
+      "Grenades": ["Axion Bolt", "Scatter", "Vortex"],
+      "ClassAbilities": ["Healing Rift", "Empowering Rift"],
+      "Aspects": ["Harbinger of Destruction", "Harbinger of Knowledge", "Harbinger of Chaos"]
+    },
+    "Shadebinder": {
+      "Stat": "Wisdom (WIS)",
+      "Affinity": "Stasis",
+      "ShieldDie": "d8",
+      "Grenades": ["Duskfield", "Icewall", "Coldsnap"],
+      "ClassAbilities": ["Healing Rift", "Empowering Rift"],
+      "Aspects": ["Bleak Watcher", "Iceflare Bolts", "Frostpulse"]
+    }
+  }
+}
