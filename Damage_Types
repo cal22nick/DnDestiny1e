@@ -1,8 +1,8 @@
 {
 "kinetic":{},
 "explosive":{},
-"light":{"subtypes":{"arc","solar","void",}}
-"dark":{"subtypes":{"stasis","strand","taken",}}
+"light":{"subtypes":["arc","solar","void"]}
+"dark":{"subtypes":["stasis","strand","taken"]}
 "prismatic":{},
 "piercing":{},
 "bludgeoning":{},
