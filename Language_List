@@ -1,23 +1,27 @@
-[
-  "Chinese",
-  "English",
-  "City Common",
-  "Risen",
-  "Risen Sign Language (RSL)",
-  "Russian",
-  "Spanish",
-  "Speech",
-  "Arabic",
-  "French",
-  "German",
-  "Hebrew",
-  "Japanese",
-  "Taiwanese Hokkien",
-  "Eliksni",
-  "Hexinary",
-  "Krill",
-  "Ulurant",
-  "Lubrei",
-  "Dread",
-  "Telepathy"
-]
+{
+  "Human Languages": [
+    "Chinese",
+    "English",
+    "City Common",
+    "Risen",
+    "Risen Sign Language (RSL)",
+    "Russian",
+    "Spanish",
+    "Speech",
+    "Arabic",
+    "French",
+    "German",
+    "Hebrew",
+    "Japanese",
+    "Taiwanese Hokkien"
+  ],
+  "Alien Languages": [
+    "Eliksni",
+    "Hexinary",
+    "Krill",
+    "Ulurant",
+    "Lubrei",
+    "Dread",
+    "Telepathy"
+  ]
+}
